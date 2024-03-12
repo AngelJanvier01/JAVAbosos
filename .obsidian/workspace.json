@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2024/Super SSH.md",
+                "file": "picoCTF 2024/00 Plantilla picoCFT2024.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2024/Super SSH.md",
+                "file": "picoCTF 2024/00 Plantilla picoCFT2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2024/Super SSH.md",
+                "file": "picoCTF 2024/00 Plantilla picoCFT2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2024/Super SSH.md"
+                "file": "picoCTF 2024/00 Plantilla picoCFT2024.md"
               }
             }
           }
@@ -146,6 +146,9 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "bec4e5e1679665e4",
-  "lastOpenFiles": []
+  "active": "1e6126ea901e70d5",
+  "lastOpenFiles": [
+    "picoCTF 2024/01 Super SSH.md",
+    "picoCTF 2024/00 Plantilla picoCFT2024.md"
+  ]
 }
