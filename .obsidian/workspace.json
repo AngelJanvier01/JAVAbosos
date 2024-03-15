@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2024/15 endianness.md",
+                "file": "picoCTF 2024/16 Secret of the Polyglot.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2024/15 endianness.md",
+                "file": "picoCTF 2024/16 Secret of the Polyglot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2024/15 endianness.md",
+                "file": "picoCTF 2024/16 Secret of the Polyglot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2024/15 endianness.md"
+                "file": "picoCTF 2024/16 Secret of the Polyglot.md"
               }
             }
           }
@@ -148,8 +148,8 @@
   },
   "active": "bec4e5e1679665e4",
   "lastOpenFiles": [
-    "picoCTF 2024/14 Collaborative Development.md",
     "picoCTF 2024/15 endianness.md",
+    "picoCTF 2024/14 Collaborative Development.md",
     "picoCTF 2024/13 Commitment Issues.md",
     "picoCTF 2024/12 Time Machine.md",
     "picoCTF 2024/11 Verify.md",
@@ -163,6 +163,7 @@
     "picoCTF 2024/03 Scan Surprise.md",
     "picoCTF 2024/02 Unminify.md",
     "picoCTF 2024/01 Super SSH.md",
-    "picoCTF 2024/00 Plantilla picoCFT2024.md"
+    "picoCTF 2024/00 Plantilla picoCFT2024.md",
+    "picoCTF 2024/16 Secret of the Polyglot.md"
   ]
 }
