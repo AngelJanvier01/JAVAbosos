@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF 2024/00 Plantilla picoCFT2024.md",
+                "file": "picoCTF 2024/15 endianness.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "picoCTF 2024/00 Plantilla picoCFT2024.md",
+                "file": "picoCTF 2024/15 endianness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "picoCTF 2024/00 Plantilla picoCFT2024.md",
+                "file": "picoCTF 2024/15 endianness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "picoCTF 2024/00 Plantilla picoCFT2024.md"
+                "file": "picoCTF 2024/15 endianness.md"
               }
             }
           }
@@ -146,8 +146,22 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1e6126ea901e70d5",
+  "active": "bec4e5e1679665e4",
   "lastOpenFiles": [
+    "picoCTF 2024/14 Collaborative Development.md",
+    "picoCTF 2024/15 endianness.md",
+    "picoCTF 2024/13 Commitment Issues.md",
+    "picoCTF 2024/12 Time Machine.md",
+    "picoCTF 2024/11 Verify.md",
+    "picoCTF 2024/10 binhexa.md",
+    "picoCTF 2024/09 heap 0.md",
+    "picoCTF 2024/08 Blame Game.md",
+    "picoCTF 2024/07 interencdec.md",
+    "picoCTF 2024/06 CanYouSee.md",
+    "picoCTF 2024/05 WebDecode.md",
+    "picoCTF 2024/04 Bookmarklet.md",
+    "picoCTF 2024/03 Scan Surprise.md",
+    "picoCTF 2024/02 Unminify.md",
     "picoCTF 2024/01 Super SSH.md",
     "picoCTF 2024/00 Plantilla picoCFT2024.md"
   ]
